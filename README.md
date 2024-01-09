@@ -17,5 +17,4 @@ ___
 ## Connect with me:
 [![free-icon-telegram-4401433.png](picture%2Ffree-icon-telegram-4401433.png)](https://t.me/mateenkov)
 [![free-icon-instagram-3955024 (3).png](picture%2Ffree-icon-instagram-3955024%20%283%29.png)](https://www.instagram.com/mateenkow?igsh=MWd6cWIwZ2duem8xYg%3D%3D&utm_source=qr)
-[![free-icon-vkontakte-4494517.png](picture%2Ffree-icon-vkontakte-4494517.png)]()
-[![free-icon-whatsapp-4494494.png](picture%2Ffree-icon-whatsapp-4494494.png)]()
+[![free-icon-vkontakte-4494517.png](picture%2Ffree-icon-vkontakte-4494517.png)](https://vk.com/ilaymateenkov)
