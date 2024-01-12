@@ -9,6 +9,10 @@ ___
 - 🔗 Link to my [resume](https://smolensk.hh.ru/resume/4a1f3e52ff09c71d1e0039ed1f6f4b506b5837)
 ---
 
+### My graduation papers:
+- UI auto-test [project](https://github.com/Mateenkow/general_project_UI)
+- API auto-test [project](https://github.com/Mateenkow/general_project_API)
+
 ### _As I said, I am a testing and test automation engineer. I have 2 years of experience in the field of testing. Below are the tools that I am good at and all the contact information_
 
 ---
